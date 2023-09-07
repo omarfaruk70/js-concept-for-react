@@ -33,7 +33,7 @@ const [first,second] =makeArray(10,20);
 // object destructuring
 // const {name,age}={ name: "john",age:35}
 // console.log(name,age);
-
+    
 const programmer ={
     name:"j khan",
     age:35,
